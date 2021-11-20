@@ -29,7 +29,7 @@ end
 
 
 group :production do
-  gem 'sqlite3', '1.4.2'
+  #gem 'sqlite3', '1.4.2'
   gem 'pg', '1.2.3'
 end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
