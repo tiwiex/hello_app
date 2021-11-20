@@ -1,4 +1,7 @@
 # README
+This tutorial hopefully would be the first tutorial leading to my active outcme for an e-commerc eand auction system.
+Let's leave the content below.
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
